@@ -1,1 +1,2 @@
-# kbot
+t.me/JuriyKlymov_bot
+/start
